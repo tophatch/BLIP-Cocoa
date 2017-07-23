@@ -3,4 +3,5 @@
 	url = git://github.com/snej/MYUtilities.git
 [submodule "PocketSocket"]
 	path = vendor/PocketSocket
-	url = git://github.com/couchbasedeps/PocketSocket.git
+	url = git://github.com/tophatch/PocketSocket.git
+	branch = concepts/validateservertrust_crash_1.4
